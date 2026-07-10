@@ -191,15 +191,12 @@ def criar_post(
     texto = f"""
 {artigo['title']}
 
-
 {artigo['contentSnippet'][:500]}
-
 
 Leia mais:
 {artigo['link']}
 
-
-#Tecnologia #InteligenciaArtificial #Dados #Inovacao
+#digitalmarketing #instagram #startup #branding #instagood #mindset #finance #investment #design #inspiration #socialmedia #fashion #lifestyle #realestate #technology #work #businesswoman #socialmediamarketing #goals #life
 """
 
 
