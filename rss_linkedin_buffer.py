@@ -41,7 +41,7 @@ IMAGE_BASE_URL = os.getenv(
 BUFFER_URL = "https://api.buffer.com"
 
 
-QTD_POSTS = 5
+QTD_POSTS = 10
 
 
 
