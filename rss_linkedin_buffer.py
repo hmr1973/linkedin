@@ -34,7 +34,7 @@ RSS_URL = os.getenv(
 
 IMAGE_BASE_URL = os.getenv(
     "POST_IMAGE",
-    "https://loremflickr.com/1200/1200/business"
+    "https://loremflickr.com/600/600/business"
 )
 
 
