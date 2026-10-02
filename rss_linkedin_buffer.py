@@ -165,7 +165,7 @@ def gerar_imagem_unica():
 
     numero = random.randint(
         100000,
-        999999
+        999998
     )
 
 
